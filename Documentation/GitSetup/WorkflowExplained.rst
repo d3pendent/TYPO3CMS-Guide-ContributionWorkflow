@@ -15,7 +15,7 @@ Regular Workflow
 .. image:: _assets/Regular-Workflow.png
    :width: 600px
 
-So this it what your usual coding workflow would look like.
+So this is what your usual coding workflow would look like.
 
 #. You clone or pull from a central Git repository and change some lines of code
 #. You push right back to that central repository
